@@ -1,0 +1,20 @@
+# Data (tout ignorer)
+
+
+# Si tu veux garder la structure (optionnel)
+!data/
+!data/raw/
+!data/raw/images/
+!data/raw/texts/
+!data/raw/tabular/
+!data/processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
