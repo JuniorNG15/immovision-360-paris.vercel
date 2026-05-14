@@ -1,5 +1,5 @@
 # Data (tout ignorer)
-
+data/
 
 # Si tu veux garder la structure (optionnel)
 !data/
